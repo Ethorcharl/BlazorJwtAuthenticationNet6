@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationJwtNet6.Server", "BlazorAuthenticationJwtNet6\Server\BlazorAuthenticationJwtNet6.Server.csproj", "{61C19EA1-5129-427C-88F8-CFD4A746DE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthenticationJwtNet6.Server", "BlazorAuthenticationJwtNet6\Server\BlazorAuthenticationJwtNet6.Server.csproj", "{61C19EA1-5129-427C-88F8-CFD4A746DE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationJwtNet6.Client", "BlazorAuthenticationJwtNet6\Client\BlazorAuthenticationJwtNet6.Client.csproj", "{A7100669-5D3C-457B-8C5C-8887C134B579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthenticationJwtNet6.Client", "BlazorAuthenticationJwtNet6\Client\BlazorAuthenticationJwtNet6.Client.csproj", "{A7100669-5D3C-457B-8C5C-8887C134B579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationJwtNet6.Shared", "BlazorAuthenticationJwtNet6\Shared\BlazorAuthenticationJwtNet6.Shared.csproj", "{D1C7EBF9-E7EB-4E2A-A0E6-F5FCC073EFAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthenticationJwtNet6.Shared", "BlazorAuthenticationJwtNet6\Shared\BlazorAuthenticationJwtNet6.Shared.csproj", "{D1C7EBF9-E7EB-4E2A-A0E6-F5FCC073EFAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
